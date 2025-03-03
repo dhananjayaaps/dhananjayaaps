@@ -16,3 +16,5 @@
 ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=dhananjayaaps&theme=highcontrast&hide_border=true)
  
 ![dhananjayaaps's Stats](https://github-readme-stats.vercel.app/api?username=dhananjayaaps&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
+
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/dhananjayaaps.svg)](https://user-badge.committers.top/sri_lanka_private/dhananjayaaps)
